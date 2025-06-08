@@ -9,6 +9,7 @@ __pycache__/
 # Data
 /data/
 /processed_data/  # <-- ADD THIS LINE
+/production_model/
 
 # IDE and OS specific
 .vscode/
