@@ -7,9 +7,8 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data
-# We often ignore large data files. For this project, our data is small,
-# but this is best practice. We will add the actual data folder later.
 /data/
+/processed_data/  # <-- ADD THIS LINE
 
 # IDE and OS specific
 .vscode/
